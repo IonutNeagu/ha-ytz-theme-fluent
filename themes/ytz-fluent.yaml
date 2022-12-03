@@ -31,7 +31,7 @@ ____Common Colors (Do Not Use): &common-colors
   lovelace-background: var(--primary-background-color)
   ha-card-background: var(--card-background-color)
 
-  #app-header-background-color: "rgba(var(--rgb-primary-background-color),1)"
+  app-header-background-color: "rgba(var(--rgb-primary-background-color),1)"
   app-header-text-color: var(--primary-text-color)
   app-header-selection-bar-color: var(--primary-color)
   app-header-edit-background-color: rgb(var(--rgb-primary-color-darker))
@@ -43,7 +43,7 @@ ____Common Colors (Do Not Use): &common-colors
   header-height: 42px
 
   # App Sidebar
-  app-header-background-color: "var(--background-color-accent)"
+  #app-header-background-color: "var(--background-color-accent)"
 
   # Material and Paper
   light-theme-disabled-color: var(--disabled-color)
