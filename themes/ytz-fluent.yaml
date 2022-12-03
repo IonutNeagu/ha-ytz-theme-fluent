@@ -41,6 +41,9 @@ ____Common Colors (Do Not Use): &common-colors
   # App Toolbar
   app-toolbar-header-height: 42px;
   app-header-height: 42px;
+  header-height: 42px;
+    
+  # App Sidebar
   app-header-background-color: "var(--background-color-accent)"
 
   # Material and Paper
