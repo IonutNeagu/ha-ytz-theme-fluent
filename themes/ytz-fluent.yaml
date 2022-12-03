@@ -39,7 +39,7 @@ ____Common Colors (Do Not Use): &common-colors
   app-header-border-bottom: none
 
   # App Toolbar
-  header-height: 42px;
+  header-height: 42px
 
   # App Sidebar
   app-header-background-color: "var(--background-color-accent)"
