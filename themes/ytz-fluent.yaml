@@ -39,10 +39,8 @@ ____Common Colors (Do Not Use): &common-colors
   app-header-border-bottom: none
 
   # App Toolbar
-  app-toolbar-header-height: 42px;
-  app-header-height: 42px;
   header-height: 42px;
-    
+
   # App Sidebar
   app-header-background-color: "var(--background-color-accent)"
 
@@ -145,7 +143,7 @@ ____Common Colors (Do Not Use): &common-colors
   mush-icon-border-radius: 32px
 
   mdc-icon-size: 24px
-  header-height: 56px
+  #header-height: 56px
   mdc-shape-small: 0
 
   expansion-panel-summary-padding: 0
