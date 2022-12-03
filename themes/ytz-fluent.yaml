@@ -43,7 +43,7 @@ ____Common Colors (Do Not Use): &common-colors
   header-height: 42px
 
   # App Sidebar
-  #app-header-background-color: "var(--background-color-accent)"
+  # app-header-background-color: "var(--background-color-accent)"
 
   # Material and Paper
   light-theme-disabled-color: var(--disabled-color)
