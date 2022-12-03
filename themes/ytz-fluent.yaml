@@ -38,6 +38,7 @@ ____Common Colors (Do Not Use): &common-colors
   app-header-edit-text-color: var(--accent-text-color)
   app-header-border-bottom: none
 
+
   # App Toolbar
   header-height: 42px
 
