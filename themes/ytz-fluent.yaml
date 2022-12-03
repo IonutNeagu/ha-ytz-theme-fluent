@@ -39,8 +39,9 @@ ____Common Colors (Do Not Use): &common-colors
   app-header-border-bottom: none
 
   # App Toolbar
-  --header-height: 42px;
-  
+  app-toolbar-header-height: 42px;
+  app-header-height: 42px;
+
   # Material and Paper
   light-theme-disabled-color: var(--disabled-color)
   dark-theme-disabled-color: var(--disabled-color)
