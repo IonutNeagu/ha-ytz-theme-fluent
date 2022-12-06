@@ -41,13 +41,9 @@ ____Common Colors (Do Not Use): &common-colors
 
   # App Toolbar
   #app-header-background-color: "rgba(var(--rgb-primary-background-color),1)"
-  
-  app-header-background-color: "rgba(var(--secondary-background-color),1)"
-  header-height: 42px
 
-  # App Sidebar
-  # app-header-background-color: "var(--background-color-accent)"
-  
+  app-header-background-color: "var(--secondary-background-color)"
+  header-height: 42px
 
   # Material and Paper
   light-theme-disabled-color: var(--disabled-color)
