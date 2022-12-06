@@ -1,6 +1,6 @@
 # Fluent Themes for Home Assistant
 
-[Home Assistant](https://www.home-assistant.io/) is an open source home automation server that integrates nearly 2000 existing IoT services into one powerful, private, and unified user interface. It is perfect to run on a Raspberry Pi or a local server.
+[Home Assistant](https://www.home-assistant.io/){:target="_blank" rel="noopener"} is an open source home automation server that integrates nearly 2000 existing IoT services into one powerful, private, and unified user interface. It is perfect to run on a Raspberry Pi or a local server.
 
 
 
