@@ -41,6 +41,7 @@ ____Common Colors (Do Not Use): &common-colors
 
   # App Toolbar
   #app-header-background-color: "rgba(var(--rgb-primary-background-color),1)"
+  
   app-header-background-color: "rgba(var(--secondary-background-color),1)"
   header-height: 42px
 
